@@ -35,51 +35,7 @@ form > div > input[type="tel"]{
 	width: 100%;
 	border: 0;
 	padding: 20px 20px 20px 60px;
-	background: #eee;
-}
-
-.user{
-	width: 40px;
-	height: 40px;
-	margin: 8px 0 7px 7px;
-	position: absolute;
-	background: url(img/user.svg);
-	-webkit-background-size: 40px;
-	background-size: 40px;
-	background-repeat: no-repeat;
-}
-
-.tel{
-	width: 40px;
-	height: 40px;
-	margin: 8px 0 7px 7px;
-	position: absolute;
-	background: url(img/tel.svg);
-	-webkit-background-size: 40px;
-	background-size: 40px;
-	background-repeat: no-repeat;
-}
-
-.email{
-	width: 40px;
-	height: 40px;
-	margin: 8px 0 7px 7px;
-	position: absolute;
-	background: url(img/email.svg);
-	-webkit-background-size: 40px;
-	background-size: 40px;
-	background-repeat: no-repeat;
-}
-
-.pass{
-	width: 40px;
-	height: 40px;
-	margin: 8px 0 7px 7px;
-	position: absolute;
-	background: url(img/pass.svg);
-	-webkit-background-size: 40px;
-	background-size: 40px;
-	background-repeat: no-repeat;
+	background: #ddd;
 }
 
 form > div > input[type="text"]:focus,
@@ -165,7 +121,49 @@ form input[type="submit"]{
 	font-size: 1.2rem;
 }
 
+.user{
+	width: 40px;
+	height: 40px;
+	margin: 8px 0 7px 7px;
+	position: absolute;
+	background: url(img/user.svg);
+	-webkit-background-size: 40px;
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
 
+.tel{
+	width: 40px;
+	height: 40px;
+	margin: 8px 0 7px 7px;
+	position: absolute;
+	background: url(img/tel.svg);
+	-webkit-background-size: 40px;
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
+
+.email{
+	width: 40px;
+	height: 40px;
+	margin: 8px 0 7px 7px;
+	position: absolute;
+	background: url(img/email.svg);
+	-webkit-background-size: 40px;
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
+
+.pass{
+	width: 40px;
+	height: 40px;
+	margin: 8px 0 7px 7px;
+	position: absolute;
+	background: url(img/pass.svg);
+	-webkit-background-size: 40px;
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
 
 
 
